@@ -18,9 +18,10 @@
 ⑤ 관리 버튼 : 아이스크림과 토핑 종류를 추가할 수 있습니다.<br>
 ![스크린샷 2024-06-12 150535](https://github.com/tyt9/icecream/assets/143326223/720ba573-eeb4-467f-ba1e-66756c539395)<br>
 ↓↓↓<br>
-![스크린샷 2024-06-12 150640](https://github.com/tyt9/icecream/assets/143326223/70d974b4-908f-4847-becf-97951eff3269)<br>
+![스크린샷 2024-06-12 151436](https://github.com/tyt9/icecream/assets/143326223/b66e123d-35e7-4277-a404-b5846341af79)<br>
+![스크린샷 2024-06-12 151500](https://github.com/tyt9/icecream/assets/143326223/de146170-f694-4185-ac41-dab86d86f9b3)<br>
 
-![스크린샷 2024-06-12 150726](https://github.com/tyt9/icecream/assets/143326223/d1754db5-10f9-459c-a74c-674688c5ab7d)<br>
 추가하면 메인 화면에 추가됩니다.<br>
+
 ![스크린샷 2024-06-12 151018](https://github.com/tyt9/icecream/assets/143326223/5e752500-1a47-4788-94d3-f59f853682e2)
 
