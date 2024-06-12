@@ -23,5 +23,9 @@
 
 추가하면 메인 화면에 추가됩니다.<br>
 
-![스크린샷 2024-06-12 151018](https://github.com/tyt9/icecream/assets/143326223/5e752500-1a47-4788-94d3-f59f853682e2)
+![스크린샷 2024-06-12 151018](https://github.com/tyt9/icecream/assets/143326223/5e752500-1a47-4788-94d3-f59f853682e2)<br><br><br>
+
+**ERD** 참고하세요.<br>
+![IceCreamERD](https://github.com/tyt9/icecream/assets/143326223/d2a6b223-9679-4997-b4ba-0b5739735958)
+
 
