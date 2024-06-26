@@ -11,6 +11,8 @@
 * **프론트** : JSP, javascript, jQuery<br><br>
 
 ### 특징
+* 장바구니에 담긴 아이스크림들이 한 줄의 문자열로 보내짐
+* 컨트롤러에서 받은 문자열을 다시 분해해서 주문을 생성함(insert)
 
 ### 기능 소개
 <details><summary><b>아이스크림 담기</b></summary>
